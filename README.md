@@ -1,6 +1,7 @@
+
 # 🎯 Predictive Lead Scoring Model
 
-This project focuses on building a **predictive lead scoring model** to help the sales team prioritize leads, optimize outreach efforts, and allocate resources more effectively. By identifying high-value prospects, the model empowers smarter decision-making in the sales pipeline.
+This project focuses on building a **predictive lead scoring model** to help the sales team prioritize leads, optimize outreach effortss and allocate resources more effectively. By identifying high-value prospects, the model empowers smarter decision-making in the sales pipeline.
 
 ---
 
@@ -48,4 +49,29 @@ This project focuses on building a **predictive lead scoring model** to help the
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+   ```
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Launch the notebook:
+   ```bash
+   jupyter notebook maximum_analysis.ipynb
+   ```
+
+---
+
+## 📈 Output
+
+The final model generates:
+- A probability-based lead score
+- SHAP visualizations for transparency
+- A ranked list of high-potential leads for sales action
+
+---
+
+## 📜 License
+
+This project is open for educational, research or internal business use. For commercial deployment, please contact the author.
